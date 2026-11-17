@@ -30,6 +30,17 @@ gcc palindrome.c -o palindrome
 
 Enter one word when prompted.
 
+## Build and run the C++ version
+
+Requires a C compiler such as GCC.
+
+```bash
+g++ palindrome.cpp -o palindrome
+./palindrome
+```
+
+Enter one word when prompted.
+
 ## Example
 
 ```text
